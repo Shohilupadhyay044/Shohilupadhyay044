@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohilupadhyay044&label=Profile%20views&color=0e75b6&style=flat" alt="shohilupadhyay044" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohilupadhyay044" alt="shohilupadhyay044" /></a> </p>
-
 - 🔭 I’m currently working on [Live Meeting Application](https://github.com/Shohilupadhyay044/LiveMeetingApp)
 
 - 🌱 I’m currently learning **Android App Development**
