@@ -27,14 +27,14 @@
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohilupadhyay044&layout=compact&theme=#6f7a78)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohilupadhyay044&layout=compact&theme=cobalt)
 
 ---
 
-![Shohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohilupadhyay044&show_icons=true&theme=#6f7a78)
+![Shohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohilupadhyay044&show_icons=true&theme=cobalt)
 
 ---
 
-<a href="https://github.com/Shohilupadhyay044/github-readme-activity-graph"><img alt="Shohil Upadhyay Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shohilupadhyay044&&theme=cobalt" /></a>
+<a href="https://github.com/Shohilupadhyay044/github-readme-activity-graph"><img alt="Shohil Upadhyay Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shohilupadhyay044&&theme=default" /></a>
 
 
