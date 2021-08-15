@@ -25,14 +25,15 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pravin5551's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shohilupadhyay044&theme=white-ice&hide_border=true&stroke=0000&background=6f7a78"/>
     </a>
   
-</p>
-<a href="https://github.com/Shohilupadhyay044/github-readme-activity-graph"><img alt="Shohil Upadhyay Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shohilupadhyay044&&theme=default" /></a>
+
 
 ![Shohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohilupadhyay044&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohilupadhyay044&layout=compact&theme=cobalt)
 
----
+
+</p>
+<a href="https://github.com/Shohilupadhyay044/github-readme-activity-graph"><img alt="Shohil Upadhyay Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shohilupadhyay044&&theme=default" /></a>
 
 
 
