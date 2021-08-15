@@ -33,7 +33,7 @@
 
 
 </p>
-<a href="https://github.com/Shohilupadhyay044/github-readme-activity-graph"><img alt="Shohil Upadhyay Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shohilupadhyay044&&theme=github" /></a>
+<a href="https://github.com/Shohilupadhyay044/github-readme-activity-graph"><img alt="Shohil Upadhyay Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shohilupadhyay044&&theme=rogue" /></a>
 
 
 
