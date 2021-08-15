@@ -27,11 +27,11 @@
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohilupadhyay044&layout=compact&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohilupadhyay044&layout=compact&theme=Grey)
 
 ---
 
-![Shohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohilupadhyay044&show_icons=true&theme=white)
+![Shohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohilupadhyay044&show_icons=true&theme=Grey)
 
 ---
 
