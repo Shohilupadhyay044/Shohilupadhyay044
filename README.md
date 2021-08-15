@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Live Meeting Application](https://github.com/Shohilupadhyay044/LiveMeetingApp)
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Android App Development**           ![](http://i.imgur.com/60bts.gif)
 
 - 👨‍💻 All of my projects are available at [https://sohilupadhyay47.wixsite.com/website](https://sohilupadhyay47.wixsite.com/website)
 
 - 📫 How to reach me **Sohilupadhyay47@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny**             
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/shohil-upadhyay-7395a120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shohil-upadhyay-7395a120b" height="30" width="40" /></a> 
