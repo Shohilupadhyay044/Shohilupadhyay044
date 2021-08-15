@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shohil upadhyay</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohilupadhyay044&label=Profile%20views&color=0e75b6&style=flat" alt="shohilupadhyay044" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohilupadhyay044&label=Profile%20views&color=0e75b6&style=flat" alt="shohilupadhyay044" />   ![](http://i.imgur.com/60bts.gif) </p>
 
 - 🔭 I’m currently working on [Live Meeting Application](https://github.com/Shohilupadhyay044/LiveMeetingApp)
 
-- 🌱 I’m currently learning **Android App Development**           ![](http://i.imgur.com/60bts.gif)
+- 🌱 I’m currently learning **Android App Development**         
 
 - 👨‍💻 All of my projects are available at [https://sohilupadhyay47.wixsite.com/website](https://sohilupadhyay47.wixsite.com/website)
 
