@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohilupadhyay044&label=Profile%20views&color=0e75b6&style=flat" alt="shohilupadhyay044" />  </p>
 
-- 🔭 I’m currently working on [Live Meeting Application](https://github.com/Shohilupadhyay044/LiveMeetingApp)
+- 🔭 I’m currently working on [OneZeroPoint](https://github.com/Shohilupadhyay044/LiveMeetingApp)
 
 - 🌱 I’m currently learning **Android App Development**         
 
